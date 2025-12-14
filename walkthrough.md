@@ -74,9 +74,9 @@ python idor-miner.py \
 - The tool will discover IDOR vulnerabilities where different user IDs return different data
 - Status 200 responses with varying content lengths indicate successful data access
 
-![IDOR Detection Process](idor.png)
+![IDOR Detection Process](assets/idor.png)
 
-![IDOR Vulnerabilities Found](idorfound.png)
+![IDOR Vulnerabilities Found](assets/idorfound.png)
 
 #### Test 2: User Information Endpoint
 
